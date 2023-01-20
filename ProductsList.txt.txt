@@ -1,0 +1,2 @@
+Enter the name of product : 2
+Enter the name of product : 3

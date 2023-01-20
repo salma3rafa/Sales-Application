@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1654104087 source:c:\users\salma arafa\desktop\demo\main.cpp
+	<iostream>
+	"../include/Customers.h"
+	"../include/Stock.h"
+	"../include/Payment.h"
+	"../include/Product.h"
+	"../include/Check.h"
+	"../include/Cash.h"
+	"../include/Credit.h"
+	"../include/Transaction.h"
+	<cstdlib>
+	<windows.h>
+	<bits/stdc++.h>
+	<windows.h>
+
+1653589329 c:\users\salma arafa\desktop\demo\include\customer.h
+	<iostream>
+	<string>
+	"../include/Order.h"
+
+1653749917 source:c:\users\salma arafa\desktop\demo\src\customer.cpp
+	"Customer.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1653589329 c:\users\salma arafa\desktop\demo\include\customers.h
+	"../include/Customer.h"
+	<iostream>
+	"../include/Person.h"
+	"../include/Company.h"
+
+1653580116 c:\users\salma arafa\desktop\demo\include\person.h
+	<iostream>
+	<string>
+	"../include/Customer.h"
+
+1653580116 c:\users\salma arafa\desktop\demo\include\company.h
+	<iostream>
+	<string>
+	"Customer.h"
+
+1653589347 source:c:\users\salma arafa\desktop\demo\src\customers.cpp
+	"../include/Customers.h"
+	<iostream>
+
+1653749877 source:c:\users\salma arafa\desktop\demo\src\person.cpp
+	"../include/Person.h"
+	<iostream>
+
+1653749877 source:c:\users\salma arafa\desktop\demo\src\company.cpp
+	"../include/Company.h"
+	<iostream>
+
+1651227735 source:c:\users\salma arafa\desktop\demo\src\orderstatues.cpp
+	"OrderStatues.h"
+
+1651227719 c:\users\salma arafa\desktop\demo\include\orderstatues.h
+
+1654103044 source:c:\users\salma arafa\desktop\demo\src\product.cpp
+	"Product.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1653752410 c:\users\salma arafa\desktop\demo\include\product.h
+	<iostream>
+	<string>
+	<fstream>
+
+1653489496 c:\users\salma arafa\desktop\demo\include\stock.h
+	<iostream>
+	"../include/Product.h"
+
+1653489496 source:c:\users\salma arafa\desktop\demo\src\stock.cpp
+	"Stock.h"
+	"../include/Product.h"
+	<iostream>
+
+1653495450 source:c:\users\salma arafa\desktop\demo\src\orderitem.cpp
+	"OrderItem.h"
+	<iostream>
+
+1653580116 c:\users\salma arafa\desktop\demo\include\orderitem.h
+	<iostream>
+	"../include/Product.h"
+	"../include/Stock.h"
+
+1653496009 c:\users\salma arafa\desktop\demo\include\order.h
+	"../include/OrderItem.h"
+	<iostream>
+	<ctime>
+
+1653569331 source:c:\users\salma arafa\desktop\demo\src\order.cpp
+	"Order.h"
+	<iostream>
+
+1653567521 source:c:\users\salma arafa\desktop\demo\src\check.cpp
+	"Check.h"
+	<string>
+	<iostream>
+
+1653567520 c:\users\salma arafa\desktop\demo\include\check.h
+	"../include/Payment.h"
+
+1653580116 c:\users\salma arafa\desktop\demo\include\payment.h
+	<string>
+	<iostream>
+	<ctime>
+
+1654103767 source:c:\users\salma arafa\desktop\demo\src\payment.cpp
+	"Payment.h"
+	<iostream>
+
+1653567521 source:c:\users\salma arafa\desktop\demo\src\credit.cpp
+	"Credit.h"
+	<string>
+	<iostream>
+
+1653567520 c:\users\salma arafa\desktop\demo\include\credit.h
+	"../include/Payment.h"
+	<string>
+
+1653567520 source:c:\users\salma arafa\desktop\demo\src\cash.cpp
+	"Cash.h"
+	<iostream>
+
+1653567520 c:\users\salma arafa\desktop\demo\include\cash.h
+	"../include/Payment.h"
+
+1654104057 source:c:\users\salma arafa\desktop\demo\src\transaction.cpp
+	"Transaction.h"
+	<iostream>
+
+1653568956 c:\users\salma arafa\desktop\demo\include\transaction.h
+	<string>
+	<iostream>
+	"../include/Payment.h"
+	"../include/Cash.h"
+	"../include/Credit.h"
+	"../include/Check.h"
+	"../include/Order.h"
+	<ctime>
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\cash.cpp
+	"Cash.h"
+	<iostream>
+
+1653567520 c:\users\salma arafa\desktop\oop3\include\cash.h
+	"../include/Payment.h"
+
+1653580116 c:\users\salma arafa\desktop\oop3\include\payment.h
+	<string>
+	<iostream>
+	<ctime>
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\check.cpp
+	"Check.h"
+	<string>
+	<iostream>
+
+1653567520 c:\users\salma arafa\desktop\oop3\include\check.h
+	"../include/Payment.h"
+
+1654290441 source:c:\users\salma arafa\desktop\oop3\src\company.cpp
+	"../include/Company.h"
+	<iostream>
+
+1653580116 c:\users\salma arafa\desktop\oop3\include\company.h
+	<iostream>
+	<string>
+	"Customer.h"
+
+1653589329 c:\users\salma arafa\desktop\oop3\include\customer.h
+	<iostream>
+	<string>
+	"../include/Order.h"
+
+1654290388 c:\users\salma arafa\desktop\oop3\include\order.h
+	"../include/OrderItem.h"
+	<iostream>
+	<ctime>
+
+1653580116 c:\users\salma arafa\desktop\oop3\include\orderitem.h
+	<iostream>
+	"../include/Product.h"
+	"../include/Stock.h"
+
+1654347814 c:\users\salma arafa\desktop\oop3\include\product.h
+	<iostream>
+	<string>
+	<fstream>
+
+1654347200 c:\users\salma arafa\desktop\oop3\include\stock.h
+	<iostream>
+	"../include/Product.h"
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\credit.cpp
+	"Credit.h"
+	<string>
+	<iostream>
+
+1653567520 c:\users\salma arafa\desktop\oop3\include\credit.h
+	"../include/Payment.h"
+	<string>
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\customer.cpp
+	"Customer.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\customers.cpp
+	"../include/Customers.h"
+	<iostream>
+
+1653589329 c:\users\salma arafa\desktop\oop3\include\customers.h
+	"../include/Customer.h"
+	<iostream>
+	"../include/Person.h"
+	"../include/Company.h"
+
+1653580116 c:\users\salma arafa\desktop\oop3\include\person.h
+	<iostream>
+	<string>
+	"../include/Customer.h"
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\order.cpp
+	"Order.h"
+	<iostream>
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\orderitem.cpp
+	"OrderItem.h"
+	<iostream>
+
+1651227735 source:c:\users\salma arafa\desktop\oop3\src\orderstatues.cpp
+	"OrderStatues.h"
+
+1651227719 c:\users\salma arafa\desktop\oop3\include\orderstatues.h
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\payment.cpp
+	"Payment.h"
+	<iostream>
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\person.cpp
+	"../include/Person.h"
+	<iostream>
+
+1654420395 source:c:\users\salma arafa\desktop\oop3\src\product.cpp
+	"Product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1654290388 source:c:\users\salma arafa\desktop\oop3\src\transaction.cpp
+	"Transaction.h"
+	<iostream>
+
+1653568956 c:\users\salma arafa\desktop\oop3\include\transaction.h
+	<string>
+	<iostream>
+	"../include/Payment.h"
+	"../include/Cash.h"
+	"../include/Credit.h"
+	"../include/Check.h"
+	"../include/Order.h"
+	<ctime>
+
+1654420570 source:c:\users\salma arafa\desktop\oop3\main.cpp
+	<iostream>
+	"../include/Customers.h"
+	"../include/Stock.h"
+	"../include/Transaction.h"
+	<cstdlib>
+	<windows.h>
+	<bits/stdc++.h>
+	<windows.h>
+
+1654420219 source:c:\users\salma arafa\desktop\oop3\src\stock.cpp
+	"Stock.h"
+	"../include/Product.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
